@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./syntagmainstitu01studgoog_0603.png"; bbox 0 0 2894 4616; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 675 23 927 104">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 675 23 927 104">
+     <span class='ocr_line' id='line_1_1' title="bbox 675 23 927 104; baseline -0.008 -14"><span class='ocrx_word' id='word_1_1' title='bbox 675 41 757 92; x_wconf 68' lang='lat' dir='ltr'><strong>msw.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 782 23 836 104; x_wconf 85' lang='lat' dir='ltr'><strong>IV,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 860 41 927 90; x_wconf 79' lang='lat' dir='ltr'><strong>m.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1452 4612">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1452 4612">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1452 4612; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1452 4612; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
